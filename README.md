@@ -44,4 +44,6 @@ chmod +x server-stats.sh
 
 Replace this URL with your GitHub project page once the repo is published:
 
-Project URL : https://github.com/MaryAkussah/server-performance-stats
+ https://github.com/MaryAkussah/server-performance-stats
+
+Project URL : https://roadmap.sh/projects/server-stats
